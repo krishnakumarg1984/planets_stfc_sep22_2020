@@ -3,5 +3,7 @@ Krishna thinks Mars is called the 'Red planet'
 Perhaps there is life.
 Maybe Elon will fly us over. 
 Adding a new line at the end of the file
-A fake Mars fact 
-There are canals here, it's what the Martians use for transport.
+A fake Mars fact.
+Krishna knows that Mars bars contain lots of calories.
+Krishna does not know any more mars facts.
+
